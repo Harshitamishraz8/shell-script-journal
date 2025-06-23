@@ -1,0 +1,37 @@
+# === OS Junk ===
+.DS_Store
+Thumbs.db
+
+# === Editor/IDE Files ===
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# === Logs and Output Files ===
+*.log
+*.out
+*.err
+
+# === Binaries & Compiled Files ===
+*.o
+*.pyc
+*.class
+*.exe
+*.a
+*.so
+
+# === Shell History ===
+.bash_history
+.zsh_history
+
+# === Environment/Secrets Files ===
+.env
+.env.*
+
+# === Cron temp or lock files ===
+*.lock
+*.pid
